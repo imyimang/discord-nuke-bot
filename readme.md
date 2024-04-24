@@ -15,7 +15,7 @@ token = "your discord bot token"
 ```
 其他不改也沒關係，但一定要填入token
 
-3.執行
+3.執行bot.py
 
 在伺服器輸入!nuke即可炸群(請確認機器人是否有管理者權限)
 
